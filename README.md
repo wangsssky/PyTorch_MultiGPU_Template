@@ -1,4 +1,4 @@
-#PyTorch MultiGPU Template 
+# PyTorch MultiGPU Template 
 
 This project contains logging, model saving, resuming, ema, mix precision, some augmentations, etc.
 
