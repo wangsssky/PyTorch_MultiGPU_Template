@@ -2,7 +2,7 @@
 
 This project contains logging, model saving, resuming, ema, mix precision, some augmentations, etc.
 
-The code is based on the structure from the official implement of [Improving Contrastive Learning by Visualizing Feature Transformation](https://github.com/DTennant/CL-Visualizing-Feature-Transformation)
+The code is based on the official implement of [Improving Contrastive Learning by Visualizing Feature Transformation](https://github.com/DTennant/CL-Visualizing-Feature-Transformation)
 
 ### Prerequisites
 - Python3
